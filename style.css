@@ -16,7 +16,7 @@
     --text-color: #333;
     --main-color: #754ef9;
     --white-color: #fdfdfd;
-    --shadow-color: rgba(0, 0, 0, .2);
+    --shadow-color: rgba(0, 1, 0, .2);
 }
 
 *::selection {
